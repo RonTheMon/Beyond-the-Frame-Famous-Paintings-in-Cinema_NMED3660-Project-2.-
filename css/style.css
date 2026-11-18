@@ -44,6 +44,24 @@ main {
     flex: 1;
 }
 
+.curatorial-statement {
+    padding: 40px 50px;
+    background-color: #e8e8e8;
+    color: black;
+    width: 100%;
+}
+
+.curatorial-statement h2 {
+    font-size: 1.5em;
+}
+
+.curatorial-statement p {
+    width: 100%;
+    max-width: none;
+    line-height: 1.8;
+}
+
+
 /* Artwork cards */
 .artwork-card {
     min-width: 0;
